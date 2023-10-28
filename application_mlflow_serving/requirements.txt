@@ -4,3 +4,5 @@ gradio==3.13.0
 numpy==1.23.5
 altair==4.2.0
 tensorflow==2.10
+setuptools==68.1.0
+wheel==0.38.4
