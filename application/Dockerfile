@@ -4,6 +4,7 @@ WORKDIR /tmp
 
 COPY . /tmp
 
+RUN pip install torch
 RUN pip install -r requirements.txt
 
 ENV PYTHONUNBUFFERED=1
