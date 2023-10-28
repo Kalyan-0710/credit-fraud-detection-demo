@@ -1,3 +1,4 @@
+pip==23.3.1
 mlflow==2.0.1
 gradio==3.13.0
 numpy==1.23.5
